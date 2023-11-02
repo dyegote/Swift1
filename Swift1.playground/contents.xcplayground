@@ -3,5 +3,6 @@
     <pages>
         <page name='Guard'/>
         <page name='GuardVsIf'/>
+        <page name='Iteraciones'/>
     </pages>
 </playground>
