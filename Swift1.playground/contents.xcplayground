@@ -4,5 +4,6 @@
         <page name='Guard'/>
         <page name='GuardVsIf'/>
         <page name='Iteraciones'/>
+        <page name='switch'/>
     </pages>
 </playground>
